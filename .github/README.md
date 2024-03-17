@@ -1,6 +1,6 @@
 # TAK (Team Awareness Kit) Server Information Page
 
-This page is intended to provide information on the atak.bsarmy.com server and how to use it.
+This page is intended to provide information on the aatak.bsarmy.com server and how to use it.
 This guide should work with ATAK-CIV, ATAK-MIL, and WinTAK.
 
 ## Server Information
@@ -26,7 +26,7 @@ The server is run on a Linode 2 GB. To get a $100, 60-day credit, sign up with [
 
 > [!NOTE]
 > If a green dot appears next to the server, you are connected.
-> If a red dot appears next to the server, you are not connected. Check the server information and try again. Alternatively, contact [atak@bsarmy.com] for assistance, as the server may be down.
+> If a red dot appears next to the server, you are not connected. Check the server information and try again. Alternatively, contact [tak_support@bsarmy.com] for assistance, as the server may be down.
 
 ## Warnings
 

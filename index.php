@@ -44,7 +44,7 @@ $description = 'Information page for the open TAK server at atak.bsarmy.com. Thi
 					<h1 class="fw-light">SERVER INFORMATION</h1>
 					<table class="table text-start">
 						<tr>
-							<td>Address:</td><td><kbd>ATAK.BSARMY.COM</kbd></td>
+							<td>Address:</td><td><kbd>atak.bsarmy.com</kbd></td>
 						</tr>
 						<tr>
 							<td>Port:</td><td><kbd>8088</kbd></td>

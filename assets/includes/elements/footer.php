@@ -10,7 +10,7 @@
 				<img src="/assets/icons/logo.png" height="80px" width="215px" class="rounded" alt="BS Army Logo" />
 			</div>
 			<p class="text-body-secondary">© Lucas Burlingham 2024</p>
-			<p class="text-body-secondary">atak.bsarmy.com is not affiliated with the US DoD or the US Army.</p>
+			<p class="text-body-secondary">tak.bsarmy.com is not affiliated with the US DoD or the US Army.</p>
 			<p class="text-body-secondary">Continued use of this website constitutes acceptance of our <a
 					href="https://bsarmy.com/docs/terms_conditions/" class="text-body-secondary">Terms & Conditions</a>.
 			</p>
@@ -45,9 +45,9 @@
 		<div class="col mb-3">
 			<h5>Help</h5>
 			<ul class="nav flex-column">
-				<li class="nav-item mb-2"><a href="https://github.com/thebarracksarmy/atak.bsarmy.com/issues" class="nav-link p-0 text-body-secondary">Submit an Issue</a></li>
+				<li class="nav-item mb-2"><a href="https://github.com/thebarracksarmy/tak.bsarmy.com/issues" class="nav-link p-0 text-body-secondary">Submit an Issue</a></li>
 				<li class="nav-item mb-2">
-					<a href="https://github.com/thebarracksarmy/atak.bsarmy.com/" class="nav-link p-0 text-body-secondary">
+					<a href="https://github.com/thebarracksarmy/tak.bsarmy.com/" class="nav-link p-0 text-body-secondary">
 						Start Contributing on <i class="fa-brands fa-github" alt="GitHub"></i>
 					</a>
 				</li>
