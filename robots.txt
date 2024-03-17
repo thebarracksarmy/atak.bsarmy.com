@@ -1,8 +1,7 @@
 User-agent: *
-Disallow: /account/
-Disallow: /admin/
-Disallow: /error/
-Disallow: /logout/
-Disallow: /scripts/
-Disallow: /suggestions/
-Disallow: /twilio-php/
+Disallow: /maps/
+Disallow: /licenses/
+Disallow: /assets/
+Disallow: /.github/
+Disallow: /.git/
+
