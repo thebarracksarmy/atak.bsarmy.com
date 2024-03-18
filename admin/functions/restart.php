@@ -1,6 +1,6 @@
 <?php
 
-exec("sudo systemctl restart taky.service taky-cot.service taky-dps.service", $output);
+exec("sudo systemctl restart taky.service taky-cot.service taky-dps.service -l --no-pager", $output);
 
 echo '<div id="command_output" role="tabpanel">';
 
