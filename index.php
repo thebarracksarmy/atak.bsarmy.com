@@ -3,7 +3,6 @@
 require_once $_SERVER['DOCUMENT_ROOT'] . '/assets/includes/beforeIncludes.php';
 
 
-
 $title = "TAK - BS Army";
 $url = "https://".$_SERVER['HTTP_HOST']."/";
 $type = "website";

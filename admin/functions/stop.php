@@ -1,13 +1,17 @@
 <?php
 
+exec("sudo systemctl stop taky.service taky-cot.service taky-dps.service", $output);
 
-// Start the TAK server with our systemctl adapter
-$command = "stop";
+echo '<div id="command_output" role="tabpanel">';
 
-exec("bash systemctl-adapter.sh $command", $output);
+if (empty($output)) {
+	$output = array("No output from systemctl stop taky.service taky-cot.service taky-dps.service");
+}
 
+$lineNum = 0;
+foreach ($output as $line) {
+	$lineNum++;
+	echo "<pre>$lineNum $line </pre>";
+}
 
-echo <<<EOT
-<div id="command_output" role="tabpanel"></div>
-<pre>$output</pre>";
-EOT;
+echo '</div>';
