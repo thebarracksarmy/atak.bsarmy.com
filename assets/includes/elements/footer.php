@@ -15,7 +15,7 @@
 					href="https://bsarmy.com/docs/terms_conditions/" class="text-body-secondary">Terms & Conditions</a>.
 			</p>
 			<p class="text-body-secondary">View our <a href="https://bsarmy.com/docs/privacy/"
-					class="text-body-secondary">Privacy Policy</a>..
+					class="text-body-secondary">Privacy Policy</a>.
 			</p>
 		</div>
 
